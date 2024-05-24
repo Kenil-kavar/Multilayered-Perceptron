@@ -9,4 +9,5 @@ How a Perceptron Works:
 4. Bias: Adds a bias term to adjust the decision threshold, allowing for fine-tuning.
 5. Activation Function: Processes the weighted sum through an activation function, typically a step function, to determine the output.
 6. Output: Produces either 1 or -1, effectively classifying the data into one of two categories.
-7. In essence, a perceptron creates a linear boundary to separate data, laying the groundwork for more complex neural networks used in tasks like image recognition and natural language processing.
+
+In essence, a perceptron creates a linear boundary to separate data, laying the groundwork for more complex neural networks used in tasks like image recognition and natural language processing.
